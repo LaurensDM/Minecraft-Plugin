@@ -1,0 +1,4 @@
+name: EXP_NightVision_PLUG
+version: '${project.version}'
+main: plugins.exp_nightvision_plug.EXP_NightVision_PLUG
+api-version: '1.20'

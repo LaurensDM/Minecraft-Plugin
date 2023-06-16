@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/.idea/
+/target
+EXP_NightVision_PLUG.iml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
